@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const DB = require('../common/dbConfig')
+
 
 require('dotenv').config()
 
